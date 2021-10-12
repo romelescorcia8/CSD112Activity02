@@ -1,0 +1,8 @@
+  body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #e2dfda;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+    font-family: "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+  }
